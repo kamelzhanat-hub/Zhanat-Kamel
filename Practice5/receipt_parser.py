@@ -93,7 +93,7 @@ receipt_data = {
 json_string = json.dumps(receipt_data, indent=4, ensure_ascii=False)
 
 
-print("Вот твоя готовая JSON-строка:")
+
 print(json_string)
 
 
