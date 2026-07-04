@@ -9,7 +9,6 @@ def import_from_csv(file_path):
         with open(file_path, mode='r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
             
-            # Подключаемся точно так же, как в твоем connect.py
             conn = psycopg2.connect(**DB_PARAMS)
             cur = conn.cursor()
             
