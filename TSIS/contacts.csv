@@ -1,0 +1,5 @@
+name,email,birthday,group,phone,phone_type
+John Doe,john.doe@gmail.com,1993-05-12,Friend,+12025550143,mobile
+Winston Smith,winston.s@company.com,1995-10-23,Work,+13115550188,work
+Bob Johnson,,1989-01-15,Family,+14155550267,home
+Emma Watson,emma.w@outlook.com,,Other,+16505550199,mobile
